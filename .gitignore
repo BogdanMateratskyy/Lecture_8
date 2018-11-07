@@ -26,7 +26,10 @@ bld/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
+<<<<<<< HEAD
 *.sqlproj
+=======
+>>>>>>> 14ff4c94ae2bb4d3d92b5317870c414e835861ef
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
@@ -328,4 +331,8 @@ ASALocalRun/
 *.nvuser
 
 # MFractors (Xamarin productivity tool) working folder 
+<<<<<<< HEAD
 .mfractor/
+=======
+.mfractor/
+>>>>>>> 14ff4c94ae2bb4d3d92b5317870c414e835861ef
